@@ -10,11 +10,11 @@
 
 ---
 
-## 👤 Tentang Saya
+## 🧑 Tentang Saya
 
 <table>
   <tr>
-    <td><strong>👤 Nama</strong></td>
+    <td><strong>🧑 Nama</strong></td>
     <td>Ravael Akbar Putra</td>
   </tr>
   <tr>
