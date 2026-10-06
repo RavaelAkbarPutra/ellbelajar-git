@@ -3,6 +3,7 @@
 - Nama: Ravael Akbar Putra
 - Kelas: XII RPL 2
 - Alamat: Kp.sukamah Lagadar Margaasih Bandung
+- Hoby: Bermain Basket
 - Cita-cita: Menjadi Developer Handal
 
 ## Progress
